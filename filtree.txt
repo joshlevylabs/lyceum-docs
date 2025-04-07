@@ -1,0 +1,13 @@
+lyceum-docs/
+├── docs/
+│   ├── index.md          # Introduction and overview
+│   ├── authentication.md # Authentication details
+│   ├── apis.md          # Generated API endpoints
+│   ├── data-upload.md   # Custom section for critical upload APIs
+│   ├── assets/
+│   │   ├── logo.png
+│   │   └── favicon.ico
+│   ├── css/
+│   │   ├── custom.css
+├── mkdocs.yml           # Configuration file
+└── lyceum_docs.py   # Introduction and overview

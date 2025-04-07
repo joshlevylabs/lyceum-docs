@@ -1,0 +1,19 @@
+site_name: Lyceum API Documentation
+theme:
+  name: material
+  palette:
+    primary: custom
+    accent: blue
+  logo: assets/logo.png      # Corrected path
+  favicon: assets/favicon.ico # Corrected path
+  font:
+    text: Roboto
+    code: Roboto Mono
+    headings: Roboto Slab
+nav:
+  - Home: index.md
+  - Authentication: authentication.md
+  - Data Upload: data-upload.md
+  - All API Endpoints: apis.md
+extra_css:
+  - css/custom.css  # Custom CSS file

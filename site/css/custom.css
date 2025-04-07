@@ -1,0 +1,23 @@
+/* Load Roboto Slab from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&display=swap');
+
+/* Define Lyceum’s brand colors */
+:root {
+  --md-primary-fg-color: #003366;
+  --md-accent-fg-color: #0066CC;
+}
+
+/* Customize the header */
+.md-header {
+  background-color: #003366;
+}
+
+/* Style navigation links */
+.md-nav__link {
+  color: #003366;
+}
+
+/* Ensure headings use Roboto Slab */
+.md-typeset h1, .md-typeset h2, .md-typeset h3 {
+  font-family: 'Roboto Slab', serif;
+}
